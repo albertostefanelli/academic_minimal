@@ -1,0 +1,21 @@
+---
+---
+.circular_image {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  overflow: hidden;
+  /* background-color: black;*/ 
+  display:inline-block;
+  /*vertical-align:middle;*/ 
+  /*horizontal-align:middle;*/ 
+  /*display: flex;*/ 
+  justify-content: center;
+  align-items: center;
+  display: block;
+  margin: 0 auto;
+
+}
+.circular_image img{
+  width:100%;
+}

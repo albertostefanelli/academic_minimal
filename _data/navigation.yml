@@ -1,0 +1,9 @@
+main:
+  - title: "<b>Research</b>"
+    url: /#pubs
+  - title: "<b>Software</b>"
+    url: /#software
+  - title: "<b>Teaching</b>"
+    url: /#teaching
+#  - title: "<b>Random Writings</b>"
+#    url: /random_writing/
