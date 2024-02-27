@@ -37,10 +37,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
 
-# Analytics 
-google_analytics: G-YB7E2L958N
-
-
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
