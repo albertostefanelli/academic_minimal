@@ -37,6 +37,13 @@ plugins:
   - jekyll-gist
   - jekyll-feed
 
+# Analytics
+analytics:
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-YB7E2L958N"
+    anonymize_ip         : # true, false (default)
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
