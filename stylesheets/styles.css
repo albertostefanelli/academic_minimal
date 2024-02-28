@@ -75,7 +75,7 @@ a small {
 .wrapper {
   width: 1020px;
   margin: 0 auto;
-  height: auto;  /* try to fix intitial page bio sider*/
+  border-top: 1px solid darkgray;
 }
 
 blockquote {
